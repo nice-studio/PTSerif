@@ -2,23 +2,23 @@
   font-family: 'PT Serif';
   font-style: italic;
   font-weight: 400;
-  src: local('PT Serif Italic'), local('PTSerif-Italic'), url("dist/fonts/PTSerifItalic.eot") format("embedded-opentype"), url("dist/fonts/PTSerifItalic.otf") format("opentype"), url("dist/fonts/PTSerifItalic.svg") format("svg"), url("dist/fonts/PTSerifItalic.ttf") format("truetype"), url("dist/fonts/PTSerifItalic.woff") format("woff"), url("dist/fonts/PTSerifItalic.woff2") format("woff2");
+  src: local('PT Serif Italic'), local('PTSerif-Italic'), url("dist/fonts/PTSerif-Italic.eot") format("embedded-opentype"), url("dist/fonts/PTSerif-Italic.otf") format("opentype"), url("dist/fonts/PTSerif-Italic.svg") format("svg"), url("dist/fonts/PTSerif-Italic.ttf") format("truetype"), url("dist/fonts/PTSerif-Italic.woff") format("woff"), url("dist/fonts/PTSerif-Italic.woff2") format("woff2");
 }
 @font-face {
   font-family: 'PT Serif';
   font-style: italic;
   font-weight: 700;
-  src: local('PT Serif Bold Italic'), local('PTSerif-BoldItalic'), url("dist/fonts/PTSerifBoldItalic.eot") format("embedded-opentype"), url("dist/fonts/PTSerifBoldItalic.otf") format("opentype"), url("dist/fonts/PTSerifBoldItalic.svg") format("svg"), url("dist/fonts/PTSerifBoldItalic.ttf") format("truetype"), url("dist/fonts/PTSerifBoldItalic.woff") format("woff"), url("dist/fonts/PTSerifBoldItalic.woff2") format("woff2");
+  src: local('PT Serif Bold Italic'), local('PTSerif-BoldItalic'), url("dist/fonts/PTSerif-BoldItalic.eot") format("embedded-opentype"), url("dist/fonts/PTSerif-BoldItalic.otf") format("opentype"), url("dist/fonts/PTSerif-BoldItalic.svg") format("svg"), url("dist/fonts/PTSerif-BoldItalic.ttf") format("truetype"), url("dist/fonts/PTSerif-BoldItalic.woff") format("woff"), url("dist/fonts/PTSerif-BoldItalic.woff2") format("woff2");
 }
 @font-face {
   font-family: 'PT Serif';
   font-style: normal;
   font-weight: 400;
-  src: local('PT Serif'), local('PTSerif-Regular'), url("dist/fonts/PTSerifRegular.eot") format("embedded-opentype"), url("dist/fonts/PTSerifRegular.otf") format("opentype"), url("dist/fonts/PTSerifRegular.svg") format("svg"), url("dist/fonts/PTSerifRegular.ttf") format("truetype"), url("dist/fonts/PTSerifRegular.woff") format("woff"), url("dist/fonts/PTSerifRegular.woff2") format("woff2");
+  src: local('PT Serif'), local('PTSerif-Regular'), url("dist/fonts/PTSerif-Regular.eot") format("embedded-opentype"), url("dist/fonts/PTSerif-Regular.otf") format("opentype"), url("dist/fonts/PTSerif-Regular.svg") format("svg"), url("dist/fonts/PTSerif-Regular.ttf") format("truetype"), url("dist/fonts/PTSerif-Regular.woff") format("woff"), url("dist/fonts/PTSerif-Regular.woff2") format("woff2");
 }
 @font-face {
   font-family: 'PT Serif';
   font-style: normal;
   font-weight: 700;
-  src: local('PT Serif Bold'), local('PTSerif-Bold'), url("dist/fonts/PTSerifBold.eot") format("embedded-opentype"), url("dist/fonts/PTSerifBold.otf") format("opentype"), url("dist/fonts/PTSerifBold.svg") format("svg"), url("dist/fonts/PTSerifBold.ttf") format("truetype"), url("dist/fonts/PTSerifBold.woff") format("woff"), url("dist/fonts/PTSerifBold.woff2") format("woff2");
+  src: local('PT Serif Bold'), local('PTSerif-Bold'), url("dist/fonts/PTSerif-Bold.eot") format("embedded-opentype"), url("dist/fonts/PTSerif-Bold.otf") format("opentype"), url("dist/fonts/PTSerif-Bold.svg") format("svg"), url("dist/fonts/PTSerif-Bold.ttf") format("truetype"), url("dist/fonts/PTSerif-Bold.woff") format("woff"), url("dist/fonts/PTSerif-Bold.woff2") format("woff2");
 }

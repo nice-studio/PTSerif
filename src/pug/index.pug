@@ -17,27 +17,18 @@ html(lang="ru" prefix="og: http://ogp.me/ns#")
 		meta(property="og:title" content="Font Family: PT Serif")
 		meta(property="og:description" content="Font Family: PT Serif")
 		style
-			include ../../dist/css/pt-serif.css
-			!= "body{ font-family: 'PT Serif'; font-size: 26px; }"
+			include ../../test/css/main.css
 	body
 		h1 Font Family: PT Serif
-		p
-			|&nbsp; &nbsp; &nbsp; &nbsp; 400 italic
-			br
-			i
-				include text
-		p
-			|&nbsp; &nbsp; &nbsp; &nbsp; 700 italic
-			br
-			b
-				i
+		- var sizes = [400, 700];
+		each val, index in sizes
+			p
+				|&nbsp; &nbsp; &nbsp; &nbsp; #{val} italic
+				br
+				span(class='italic-' + val)
 					include text
-		p
-			|&nbsp; &nbsp; &nbsp; &nbsp; 400 regular
-			br
-			include text
-		p
-			|&nbsp; &nbsp; &nbsp; &nbsp; 700 regular
-			br
-			b
-				include text
+			p
+				|&nbsp; &nbsp; &nbsp; &nbsp; #{val} normal
+				br
+				span(class='normal-' + val)
+					include text
