@@ -15,6 +15,7 @@
 	"bugs": {
 		"url": "https://github.com/nice-studio/PTSerif/issues"
 	},
+	"githubpage": "https://nice-studio.github.io/PTSerif/",
 	"homepage": "https://github.com/nice-studio/PTSerif#readme",
 	"devDependencies": {
 		"grunt": "^1.0.1",
