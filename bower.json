@@ -1,22 +1,25 @@
 {
-	"name": "ptserif",
-	"description": "",
-	"main": "dist/css/pt-serif.css",
-	"authors": [
-		"ProjectSoft <projectsoft2009@yandex.ru>"
-	],
-	"license": "ISC",
-	"homepage": "https://github.com/nice-studio/PTSerif",
-	"ignore": [
-		"**/.*",
-		"node_modules",
-		"bower_components",
-		"test",
-		"tests",
-		"src/pug",
-		"Gruntfile.js",
-		"**/*.html",
-		"**/*.ico",
-		"**/*.json"
-	]
+  "name": "ptserif",
+  "description": "",
+  "main": "dist/css/pt-serif.css",
+  "authors": [
+    "ProjectSoft <projectsoft2009@yandex.ru>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/nice-studio/PTSerif",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "src/pug",
+    "Gruntfile.js",
+    "**/*.html",
+    "**/*.ico",
+    "**/*.json"
+  ],
+  "devDependencies": {
+    "fontname": "https://github.com/nice-studio/sceleton-webfont.git"
+  }
 }
